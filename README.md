@@ -2,7 +2,8 @@
 - 👀 I’m interested in Coding and Editing
 - 🌱 I’m currently learning Computer Application
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... gmail:- ababhishek3005@gmail.com
+- 📫 How to reach me ...
+- 
 
 <!---
 BLITzZ0/BLITzZ0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
