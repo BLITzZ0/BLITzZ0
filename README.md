@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @BLITzZ0
-- 👀 I’m interested in Coding and Editing
-- 🌱 I’m currently learning Computer Application
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 
