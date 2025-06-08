@@ -1,14 +1,12 @@
 
-<!-- Cyberpunk 2077 Inspired GitHub Profile README -->
-
-<!-- Header with futuristic animation -->
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&duration=3000&color=00FFD1&center=true&vCenter=true&width=600&lines=Welcome+to+Night+City%2C+Runner...;I+am+Abhishek+Kumar+Pandey%2C+Cyber-Samurai+Dev;MERN+Stack%2C+IoT%2C+Cybersecurity+Engineer" />
-</p>
+<!-- Cyberpunk 2077 Inspired GitHub Profile README for Abhishek Kumar Pandey -->
 
 <p align="center">
-  <img src="https://i.imgur.com/f9G3k5O.gif" width="400px" alt="Cyberpunk Hacker">
+  <img src="https://i.imgur.com/9V5f8NI.png" width="100%" alt="Cyberpunk Banner"/>
 </p>
+
+<h1 align="center" style="color:#00FFD1;">Hi, I'm Abhishek Kumar Pandey 👋</h1>
+<h3 align="center" style="color:#FF007F;">Cybersecurity | MERN Stack | Systems Dev | IoT Innovator</h3>
 
 ---
 
