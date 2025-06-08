@@ -17,11 +17,10 @@
 ### 🧠 Skills
 
 ```js
-const skills = {
-  languages: ["JavaScript", "Python", "C++"],
-  frameworks: ["Node.js", "React", "Express"],
-  tools: ["MongoDB", "Kafka", "Socket.IO", "Git", "Linux"]
-}
+  - languages: ["JavaScript", "Python", "C++"],
+  - frameworks: ["Node.js", "React", "Express"],
+  - tools: ["MongoDB", "Kafka", "Socket.IO", "Git", "Linux"]
+
 ```
 
 ---
