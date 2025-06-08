@@ -1,9 +1,10 @@
 
 <!-- Cyberpunk 2077 Inspired Dynamic GitHub Profile README for Abhishek Kumar Pandey -->
 
-<p align="center">
+<!--<p align="center">
   <img src="https://i.imgur.com/9V5f8NI.png" width="100%" alt="Cyberpunk Banner"/>
 </p>
+-->
 
 <h1 align="center" style="color:#00FFD1;">Hi, I'm Abhishek Kumar Pandey 👋</h1>
 <h3 align="center" style="color:#FF007F;">Cybersecurity | MERN Stack | Systems Dev | IoT Innovator</h3>
