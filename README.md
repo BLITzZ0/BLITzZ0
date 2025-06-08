@@ -27,31 +27,60 @@ const Abhishek = {
     currentlyBuilding: "Smart Real-Time Queue Management System (QTrack)",
     funFact: "I break systems... then rebuild them better."
 };
-🚀 Featured Projects
-🟣 QTrack — Real-Time Queue Management System
-⚡ Built with React, Tailwind, Socket.IO, MongoDB, Node.js
+```
+
+## 🚀 Featured Projects
+
+### 🟣 QTrack — Real-Time Queue Management System  
+⚡ Built with React, Tailwind, Socket.IO, MongoDB, Node.js  
 🔗 GitHub Repository
 
-🟣 DDAS — Data Download Duplication Alert System
-⚡ Built with Python, TCP/IP, SHA/MD5 fingerprinting
+### 🟣 DDAS — Data Download Duplication Alert System  
+⚡ Built with Python, TCP/IP, SHA/MD5 fingerprinting  
 🔗 GitHub Repository
 
-🟣 AquaMesh — Smart IoT-Based Irrigation System
-⚡ Built with Python, Arduino, Kafka, MongoDB, Flask
+### 🟣 AquaMesh — Smart IoT-Based Irrigation System  
+⚡ Built with Python, Arduino, Kafka, MongoDB, Flask  
 🔗 GitHub Repository
 
-⚙️ GitHub Stats (Cyberpunk Edition)
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=BLITzZ0&show_icons=true&theme=tokyonight&hide_border=true&icon_color=ff79c6&title_color=ff79c6&text_color=bd93f9&bg_color=0d1117" /> </p> <p align="center"> <img src="https://github-readme-streak-stats.herokuapp.com?user=BLITzZ0&theme=tokyonight&hide_border=true&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6" /> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLITzZ0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=bd93f9" /> </p>
-🕶️ Activity Graph
-<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=BLITzZ0&theme=tokyo-night&hide_border=true" /> </p>
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=BLITzZ0&label=Visitors&color=ff00ff&style=flat-square" alt="Profile Visitors" /> </p>
-🎮 Terminal
-txt
-Copy
-Edit
+## ⚙️ GitHub Stats (Cyberpunk Edition)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=BLITzZ0&show_icons=true&theme=tokyonight&hide_border=true&icon_color=ff79c6&title_color=ff79c6&text_color=bd93f9&bg_color=0d1117" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BLITzZ0&theme=tokyonight&hide_border=true&ring=ff79c6&fire=ff79c6&currStreakLabel=ff79c6" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLITzZ0&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=ff79c6&text_color=bd93f9" />
+</p>
+
+## 🕶️ Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BLITzZ0&theme=tokyo-night&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BLITzZ0&label=Visitors&color=ff00ff&style=flat-square" alt="Profile Visitors" />
+</p>
+
+## 🎮 Terminal
+
+```
 > ssh root@cyberpunk.dev
 > hacking systems... uploading creativity...
 > stay tuned 🚀
-<p align="center"> <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" alt="Cyberpunk Coder Gif" /> </p>
-✨ Glitch Text Effect
-<p align="center"> <img src="https://i.imgur.com/6NfmPfA.gif" alt="Glitch Text Effect" width="400" /> </p>
+```
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" alt="Cyberpunk Coder Gif" />
+</p>
+
+## ✨ Glitch Text Effect
+
+<p align="center">
+  <img src="https://i.imgur.com/6NfmPfA.gif" alt="Glitch Text Effect" width="400" />
+</p>
