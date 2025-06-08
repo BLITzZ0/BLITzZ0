@@ -3,6 +3,8 @@
 # Hi 👋, I'm Abhishek Kumar Pandey
 ### MCA Graduate | MERN Stack Developer | Networking Enthusiast | Real-World Problem Solver 🚀
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Passionate+about+building+real-world+apps;Always+learning+new+tech;Love+problem+solving;Networking+%26+Cybersecurity+enthusiast;Let's+connect!&center=true&width=500&height=50&font=Fira+Code&pause=1000&color=F76C6C&vCenter=true)](https://github.com/BLITzZ0)
+
 ---
 
 <p align="center">
@@ -87,12 +89,38 @@ CGPA: **9.01 / 10**
 
 ---
 
+## 🏅 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=BLITzZ0&theme=radical&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
+</p>
+
+---
+
+## 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BLITzZ0&show_icons=true&theme=radical" alt="Abhishek's GitHub stats" />
   <br />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=BLITzZ0&theme=radical" alt="GitHub Streak" />
   <br />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLITzZ0&layout=compact&theme=radical" alt="Top Languages" />
+</p>
+
+---
+
+## 📈 GitHub Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BLITzZ0&theme=radical" alt="GitHub Activity Graph" />
+</p>
+
+---
+
+## 👀 Visitors
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BLITzZ0&label=Profile%20Views&color=F76C6C&style=flat" alt="Profile Views" />
 </p>
 
 ---
