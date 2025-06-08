@@ -96,7 +96,7 @@ CGPA: **9.01 / 10**
 ## 🏅 GitHub Trophies
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=BLITzZ0&theme=radical&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=BLITzZ0&theme=gruvbox&no-frame=true&row=2&column=3" alt="GitHub Trophies" />
 </p>
 
 ---
@@ -104,11 +104,11 @@ CGPA: **9.01 / 10**
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BLITzZ0&show_icons=true&theme=radical" alt="Abhishek's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BLITzZ0&show_icons=true&theme=dracula" alt="Abhishek's GitHub stats" />
   <br />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BLITzZ0&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BLITzZ0&theme=tokyonight" alt="GitHub Streak" />
   <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLITzZ0&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLITzZ0&layout=compact&theme=onedark" alt="Top Languages" />
 </p>
 
 ---
@@ -116,7 +116,7 @@ CGPA: **9.01 / 10**
 ## 📈 GitHub Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BLITzZ0&theme=radical" alt="GitHub Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=BLITzZ0&theme=tokyonight" alt="GitHub Activity Graph" />
 </p>
 
 ---
