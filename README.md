@@ -1,7 +1,7 @@
 <!-- Cyberpunk GitHub Profile ReadMe for Abhishek Kumar Pandey -->
 
 <p align="center">
-  <img src="https://i.imgur.com/o6C4UpG.gif" width="100%" alt="Cyberpunk Banner"/>
+  <img src="https://github.com/BLITzZ0/BLITzZ0/raw/main/assets/banner.gif" width="100%" alt="Cyberpunk Banner"/>
 </p>
 
 <p align="center">
@@ -82,5 +82,5 @@ const Abhishek = {
 ## ✨ Glitch Text Effect
 
 <p align="center">
-  <img src="https://i.imgur.com/6NfmPfA.gif" alt="Glitch Text Effect" width="400" />
+  <img src="https://github.com/BLITzZ0/BLITzZ0/raw/main/assets/glitch.gif" alt="Glitch Text Effect" width="400" />
 </p>
