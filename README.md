@@ -1,7 +1,7 @@
 <!-- GitHub Profile ReadMe for Abhishek Kumar Pandey -->
 
-<h1 align="center">Hi 👋, I'm Abhishek Kumar Pandey</h1>
-<h3 align="center">MCA Graduate | MERN Stack Developer | Networking Enthusiast | Real-World Problem Solver</h3>
+# Hi 👋, I'm Abhishek Kumar Pandey
+### MCA Graduate | MERN Stack Developer | Networking Enthusiast | Real-World Problem Solver 🚀
 
 ---
 
@@ -15,24 +15,30 @@
 ---
 
 ## 📚 Education
-- **Master of Computer Applications (MCA)**  
-  *Amity University Jharkhand (2023–2025)*  
-  CGPA: 8.66 / 10
 
-- **Bachelor of Computer Applications (BCA)**  
-  *NSHM Knowledge Campus, Durgapur (2020–2023)*  
-  CGPA: 9.01 / 10
+🎓 **Master of Computer Applications (MCA)**  
+*Amity University Jharkhand (2023–2025)*  
+CGPA: **8.66 / 10**
+
+🎓 **Bachelor of Computer Applications (BCA)**  
+*NSHM Knowledge Campus, Durgapur (2020–2023)*  
+CGPA: **9.01 / 10**
 
 ---
 
-## 💻 Skills
+## 💻 Tech Stack
 
-**Languages:** C++, JavaScript, HTML, Python  
-**Databases:** SQL, MongoDB  
-**Frameworks & Libraries:** React.js, Express.js  
-**Tools:** GitHub, Visual Studio, Jupyter  
-**Platforms:** Node.js  
-**OS:** Windows 10/11, Ubuntu
+- **Languages:** ![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+
+- **Databases:** ![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+
+- **Frameworks & Libraries:** ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=black) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white)
+
+- **Tools:** ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white) ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?logo=visual-studio-code&logoColor=white) ![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?logo=jupyter&logoColor=white)
+
+- **Platforms:** ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+
+- **Operating Systems:** 🪟 Windows 10/11, 🐧 Ubuntu
 
 ---
 
@@ -40,43 +46,53 @@
 
 ### 👨‍💻 Software Development Trainee — *National Informatics Centre (NIC)*  
 **June 2024 – Sept 2024**  
-- Developed a responsive Tenant Management System using HTML, CSS, JS, PHP, and MySQL.
+- Developed a responsive **Tenant Management System** using HTML, CSS, JavaScript, PHP, and MySQL.
+- Improved UI/UX and enhanced database performance.
 
 ---
 
-## 🚀 Projects
+## 🚀 Key Projects
 
-### 🔷 QTrack: Smart Queue Management System *(2025)*
-- RBAC, real-time queue updates, modular REST APIs  
-- **Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, bcrypt, Socket.IO
+### 🔷 **QTrack:** Smart Queue Management System *(2025)*
+- Role-based access control (RBAC), real-time queue updates, modular REST APIs.
+- **Tech Stack:** React, Tailwind CSS, Node.js, Express.js, MongoDB, JWT, bcrypt, Socket.IO.
 
-### 🔷 DDAS: Data Download Duplication Alert System *(2024)*
-- Metadata analysis, hashing (MD5/SHA), real-time alerts  
-- **Tech Stack:** Python, TCP/IP
+### 🔷 **DDAS:** Data Download Duplication Alert System *(2024)*
+- Network metadata analysis, file fingerprinting (MD5/SHA), real-time in-system alerts.
+- **Tech Stack:** Python, TCP/IP stack.
 
-### 🔷 AquaMesh: Smart Real-Time Irrigation System *(2024)*
-- IoT-based moisture detection, Dijkstra scheduling  
-- **Tech Stack:** Python, Arduino, Kafka, Flask, MongoDB
+### 🔷 **AquaMesh:** Smart Real-Time Irrigation System *(2024)*
+- IoT-based moisture detection system with Dijkstra-based scheduling algorithm.
+- **Tech Stack:** Python, Arduino, Kafka, Flask, MongoDB.
 
 ---
 
 ## 📜 Certifications
 
-- 🏅 [Software Engineering Virtual Experience](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_qRmN3sgDNCsqaQRNJ_1673926158841_completion_certificate.pdf)  
-- 🏅 [Agile Methodology Virtual Experience](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/ZZswQd6xGydd758vz_Cognizant%20USA_qRmN3sgDNCsqaQRNJ_1683233703680_completion_certificate.pdf)
+- 🏅 [Software Engineering Virtual Experience (Goldman Sachs)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_qRmN3sgDNCsqaQRNJ_1673926158841_completion_certificate.pdf)
+- 🏅 [Agile Methodology Virtual Experience (Cognizant)](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/ZZswQd6xGydd758vz_Cognizant%20USA_qRmN3sgDNCsqaQRNJ_1683233703680_completion_certificate.pdf)
 
 ---
 
 ## 🏆 Achievements
-- 🎖️ Finalist - Smart India Hackathon 2024 ([Certificate](https://drive.google.com/file/d/16XKRoxyG-gX5g6LnpG1D38wHi8F1yPha/view?usp=sharing))
+
+- 🎖️ **Finalist** - *Smart India Hackathon 2024* ([Certificate](https://drive.google.com/file/d/16XKRoxyG-gX5g6LnpG1D38wHi8F1yPha/view?usp=sharing))
 
 ---
 
-## 📈 Extra-Curricular
-- LeetCode Problem Solver — Regularly sharpening DSA skills.
+## 📈 Extra-Curricular Activities
+
+- 🧑‍💻 **LeetCode Problem Solver** — Consistently solving problems and refining **DSA** skills.
+- 📚 Passionate about **Networking**, **Cybersecurity**, and **System Design**.
 
 ---
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=BLITzZ0&show_icons=true&theme=radical" alt="Abhishek's GitHub stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BLITzZ0&theme=radical" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLITzZ0&layout=compact&theme=radical" alt="Top Languages" />
 </p>
+
+---
