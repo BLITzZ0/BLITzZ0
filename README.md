@@ -1,5 +1,9 @@
 <!-- GitHub Profile ReadMe for Abhishek Kumar Pandey -->
 
+<p align="center">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="80" />
+</p>
+
 # Hi 👋, I'm Abhishek Kumar Pandey
 ### MCA Graduate | MERN Stack Developer | Networking Enthusiast | Real-World Problem Solver 🚀
 
@@ -124,3 +128,9 @@ CGPA: **9.01 / 10**
 </p>
 
 ---
+
+## 👨‍💻 Keep Coding!
+
+<p align="center">
+  <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="500" alt="Coding Gif" />
+</p>
