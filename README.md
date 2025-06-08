@@ -1,5 +1,5 @@
 
-<!-- Cyberpunk 2077 Inspired GitHub Profile README for Abhishek Kumar Pandey -->
+<!-- Cyberpunk 2077 Inspired Dynamic GitHub Profile README for Abhishek Kumar Pandey -->
 
 <p align="center">
   <img src="https://i.imgur.com/9V5f8NI.png" width="100%" alt="Cyberpunk Banner"/>
@@ -12,65 +12,94 @@
 
 ### 🧠 Who Am I?
 
-```bash
-> booting up profile...
-> locating netrunner identity...
-> trace found: @BLITzZ0
-> loading system logs...
-```
-
 ```yaml
-alias: Abhishek Kumar Pandey
-location: India
-roles: [Cybersecurity Engineer, MERN Stack Dev, IoT Innovator]
-current_project: QTrack - Smart Queue System
-status: 🟢 ONLINE
-contact: ababhishek3005@gmail.com
+name: Abhishek Kumar Pandey
+email: ababhishek3005@gmail.com
+phone: +91 7633909155
+github: https://github.com/BLITzZ0
+linkedin: https://linkedin.com/in/abhishek-k-0181b5229/
+education:
+  - MCA, Amity University Jharkhand (2023–2025), CGPA: 8.66/10
+  - BCA, NSHM Knowledge Campus (2020–2023), CGPA: 9.01/10
 ```
 
 ---
 
-### ⚙️ Skill Modules
+### ⚙️ Skills
 
-```js
-languages: ["JavaScript", "Python", "C++"],
-frameworks: ["Node.js", "React", "Express"],
-tools: ["MongoDB", "Kafka", "Socket.IO", "Git", "Linux"]
+```json
+{
+  "Languages": ["C++", "JavaScript", "HTML", "Python"],
+  "Databases": ["SQL", "MongoDB"],
+  "Frameworks": ["React", "Express.js"],
+  "Tools": ["Visual Studio", "Jupyter", "GitHub"],
+  "Runtime/Platform": ["Node.js"],
+  "Operating Systems": ["Windows 10", "Windows 11", "Ubuntu"]
+}
 ```
 
 ---
 
-### 🔥 System Activity Stats
+### 👨‍💻 Experience
+
+```bash
+National Informatics Centre (NIC) - Software Development Trainee (June 2024 – Sept 2024)
+
+Project: Tenant Management System
+- Built with HTML, CSS, JavaScript, PHP, MySQL
+- Focused on responsive interfaces and backend functions
+```
+
+---
+
+### 🚀 Projects
+
+```bash
+QTrack (2025)
+- Digital smart queue system with role-based access control
+- RESTful APIs, real-time socket integration
+- Stack: React.js, Tailwind, Node.js, Express, MongoDB, JWT, bcrypt, Socket.IO
+
+DDAS (2024)
+- File download monitoring via TCP/IP & hashing
+- Stack: Python, MD5/SHA, TCP/IP
+
+AquaMesh (2024)
+- IoT-based irrigation system
+- Stack: Python, Arduino, Kafka, Flask, MongoDB, Dijkstra's Algorithm
+```
+
+---
+
+### 📜 Certifications
+
+- [Software Engineering - Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_qRmN3sgDNCsqaQRNJ_1673926158841_completion_certificate.pdf)
+- [Agile Methodology - Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/ZZswQd6xGydd758vz_Cognizant%20USA_qRmN3sgDNCsqaQRNJ_1683233703680_completion_certificate.pdf)
+
+---
+
+### 🏆 Achievements
+
+- Finalist: Smart India Hackathon 2024 — [Certificate](https://drive.google.com/file/d/16XKRoxyG-gX5g6LnpG1D38wHi8F1yPha/view?usp=sharing)
+
+---
+
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BLITzZ0&show_icons=true&theme=radical&bg_color=0D1117&title_color=00FFD1&icon_color=FF007F&text_color=F8F8F2" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BLITzZ0&theme=radical&hide_border=false&background=0D1117&currStreakLabel=00FFD1" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=BLITzZ0&show_icons=true&theme=radical" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=BLITzZ0&theme=radical&hide_border=false" />
 </p>
 
 ---
 
-### 💾 Featured Contracts (Projects)
-
-```bash
-> QTrack       : Real-time Smart Queue Management
-> DDAS         : Data Download Alert System
-> AquaMesh     : IoT-based Smart Irrigation System
-```
-
----
-
-### 👁️ Glitch into My World
+### 🌐 Connect with Me
 
 <p align="center">
-  <a href="https://github.com/BLITzZ0">
-    <img src="https://img.shields.io/badge/GitHub-00FFD1?style=for-the-badge&logo=github&logoColor=black" />
-  </a>
-  <a href="https://linkedin.com/in/abhishek-k-0181b5229">
-    <img src="https://img.shields.io/badge/LinkedIn-FF007F?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/BLITzZzZzZz/">
-    <img src="https://img.shields.io/badge/LeetCode-00FFD1?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
+  <a href="https://github.com/BLITzZ0"><img src="https://img.shields.io/badge/GitHub-00FFD1?style=for-the-badge&logo=github&logoColor=black" /></a>
+  <a href="https://linkedin.com/in/abhishek-k-0181b5229"><img src="https://img.shields.io/badge/LinkedIn-FF007F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/u/BLITzZzZzZz/"><img src="https://img.shields.io/badge/LeetCode-00FFD1?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 </p>
 
 ---
