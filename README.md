@@ -20,7 +20,7 @@ phone: +91 7633909155
 github: https://github.com/BLITzZ0
 linkedin: https://linkedin.com/in/abhishek-k-0181b5229/
 education:
-  - MCA, Amity University Jharkhand (2023–2025), CGPA: 8.66/10
+  - MCA, Amity University Jharkhand (2023–2025), CGPA: 8.76/10
   - BCA, NSHM Knowledge Campus (2020–2023), CGPA: 9.01/10
 ```
 
