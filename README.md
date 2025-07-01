@@ -1,116 +1,91 @@
+# 👨‍💻 Abhishek Kumar Pandey
 
-<!-- Cyberpunk 2077 Inspired Dynamic GitHub Profile README for Abhishek Kumar Pandey -->
+🚀 MCA Graduate | 🧠 MERN Stack Enthusiast | 💡 Problem Solver  
+📍 India | 🌐 [Portfolio (Coming Soon)](https://github.com/BLITzZ0)
 
-<!--<p align="center">
-  <img src="https://i.imgur.com/9V5f8NI.png" width="100%" alt="Cyberpunk Banner"/>
-</p>
--->
-
-<h1 align="center" style="color:#00FFD1;">Hi, I'm Abhishek Kumar Pandey 👋</h1>
-<h3 align="center" style="color:#FF007F;">Cybersecurity | MERN Stack | Systems Dev | IoT Innovator</h3>
-
----
-
-### 🧠 Who Am I?
-
-```yaml
-name: Abhishek Kumar Pandey
-email: ababhishek3005@gmail.com
-phone: +91 7633909155
-github: https://github.com/BLITzZ0
-linkedin: https://linkedin.com/in/abhishek-k-0181b5229/
-education:
-  - MCA, Amity University Jharkhand (2023–2025), CGPA: 8.76/10
-  - BCA, NSHM Knowledge Campus (2020–2023), CGPA: 9.01/10
-```
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/abhishek-k-0181b5229/)](https://linkedin.com/in/abhishek-k-0181b5229/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/BLITzZ0)](https://github.com/BLITzZ0)
+[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&link=https://leetcode.com/u/BLITzZzZzZz/)](https://leetcode.com/u/BLITzZzZzZz/)
+[![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&link=mailto:ababhishek3005@gmail.com)](mailto:ababhishek3005@gmail.com)
 
 ---
 
-### ⚙️ Skills
+## 📝 Summary
 
-```json
-{
-  "Languages": ["C++", "JavaScript", "HTML", "Python"],
-  "Databases": ["SQL", "MongoDB"],
-  "Frameworks": ["React", "Express.js"],
-  "Tools": ["Visual Studio", "Jupyter", "GitHub"],
-  "Runtime/Platform": ["Node.js"],
-  "Operating Systems": ["Windows 10", "Windows 11", "Ubuntu"]
-}
-```
+🎓 MCA graduate with hands-on experience in MERN stack development, networking, and backend systems.  
+🌟 Passionate about solving real-world problems with scalable and user-friendly tech solutions.
 
 ---
 
-### 👨‍💻 Experience
+## 🎓 Education
 
-```bash
-National Informatics Centre (NIC) - Software Development Trainee (June 2024 – Sept 2024)
+- **Amity University Jharkhand, Ranchi**  
+  *Master’s in Computer Applications* (2023 – 2025) — CGPA: **8.73**
 
-Project: Tenant Management System
-- Built with HTML, CSS, JavaScript, PHP, MySQL
-- Focused on responsive interfaces and backend functions
-```
+- **NSHM Knowledge Campus, Durgapur**  
+  *Bachelor’s in Computer Applications* (2020 – 2023) — CGPA: **9.01**
 
 ---
 
-### 🚀 Projects
+## 🛠️ Skills
 
-```bash
-QTrack (2025)
-- Digital smart queue system with role-based access control
-- RESTful APIs, real-time socket integration
-- Stack: React.js, Tailwind, Node.js, Express, MongoDB, JWT, bcrypt, Socket.IO
-
-DDAS (2024)
-- File download monitoring via TCP/IP & hashing
-- Stack: Python, MD5/SHA, TCP/IP
-
-AquaMesh (2024)
-- IoT-based irrigation system
-- Stack: Python, Arduino, Kafka, Flask, MongoDB, Dijkstra's Algorithm
-```
+- **Languages:** C++, JavaScript, HTML, Python  
+- **Databases:** SQL, MongoDB  
+- **Frameworks:** React.js, Express.js, Node.js  
+- **Tools:** GitHub, VS Code, Jupyter  
+- **Platforms:** Windows, Ubuntu
 
 ---
 
-### 📜 Certifications
+## 💼 Experience
 
-- [Software Engineering - Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_qRmN3sgDNCsqaQRNJ_1673926158841_completion_certificate.pdf)
-- [Agile Methodology - Forage](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/ZZswQd6xGydd758vz_Cognizant%20USA_qRmN3sgDNCsqaQRNJ_1683233703680_completion_certificate.pdf)
-
----
-
-### 🏆 Achievements
-
-- Finalist: Smart India Hackathon 2024 — [Certificate](https://drive.google.com/file/d/16XKRoxyG-gX5g6LnpG1D38wHi8F1yPha/view?usp=sharing)
+### 🏢 National Informatics Centre (NIC)  
+**Software Development Trainee** — *June 2024 – Sept 2024*  
+- Built a responsive **Tenant Management System** using HTML, CSS, JavaScript, PHP, MySQL  
+- Developed robust backend logic and user-friendly UI components
 
 ---
 
-### 📈 GitHub Stats
+## 📂 Projects
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BLITzZ0&show_icons=true&theme=radical" />
-  <br/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=BLITzZ0&theme=radical&hide_border=false" />
-</p>
+### 🔹 QTrack – Smart Queue Management System  
+> A digital queueing solution for institutions  
+- RBAC: Admins, Orgs, Customers  
+- Modular REST APIs, JWT Auth, Socket.IO  
+- **Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB
 
----
+### 🔹 DDAS – Data Download Duplication Alert System  
+> Detects duplicate file downloads using hashing  
+- Used MD5/SHA and TCP/IP protocol monitoring  
+- **Tech Stack:** Python, Hashing, TCP/IP
 
-### 🌐 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/BLITzZ0"><img src="https://img.shields.io/badge/GitHub-00FFD1?style=for-the-badge&logo=github&logoColor=black" /></a>
-  <a href="https://linkedin.com/in/abhishek-k-0181b5229"><img src="https://img.shields.io/badge/LinkedIn-FF007F?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/u/BLITzZzZzZz/"><img src="https://img.shields.io/badge/LeetCode-00FFD1?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BLITzZ0&label=Profile+Views&color=blueviolet&style=flat-square" />
-</p>
+### 🔹 AquaMesh – Smart Real-Time Irrigation System  
+> IoT-based soil moisture monitoring and irrigation  
+- Kafka-based data handling with Flask backend  
+- **Tech Stack:** Python, Arduino, Kafka, MongoDB, Dijkstra’s Algorithm
 
 ---
 
-<p align="center" style="color:#00FFD1;font-family:'Orbitron',sans-serif;">
-  “Wake the f**k up, dev... We've got code to write.” – Johnny Silverhand
-</p>
+## 📜 Certifications
+
+- [Goldman Sachs Software Engineering Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_qRmN3sgDNCsqaQRNJ_1673926158841_completion_certificate.pdf)  
+- [Cognizant Agile Methodology Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/ZZswQd6xGydd758vz_Cognizant%20USA_qRmN3sgDNCsqaQRNJ_1683233703680_completion_certificate.pdf)
+
+---
+
+## 🏆 Achievements
+
+🏅 Finalist – **Smart India Hackathon 2024**  
+[View Certificate](https://drive.google.com/file/d/16XKRoxyG-gX5g6LnpG1D38wHi8F1yPha/view?usp=sharing)
+
+---
+
+## ⚡ Extras
+
+- 💻 Active on LeetCode: [BLITzZzZzZz](https://leetcode.com/u/BLITzZzZzZz/)  
+- 🧩 Love DSA, problem-solving, and building impactful projects  
+- 🎯 Always eager to learn and contribute
+
+---
+
+_“Building tech that empowers people.”_
