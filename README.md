@@ -20,7 +20,7 @@
 ## 🎓 Education
 
 - **Amity University Jharkhand, Ranchi**  
-  *Master’s in Computer Applications* (2023 – 2025) — CGPA: **8.73**
+  *Master’s in Computer Applications* (2023 – 2025) — CGPA: **8.76**
 
 - **NSHM Knowledge Campus, Durgapur**  
   *Bachelor’s in Computer Applications* (2020 – 2023) — CGPA: **9.01**
