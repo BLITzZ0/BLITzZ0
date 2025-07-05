@@ -10,14 +10,14 @@
 
 ---
 
-## 📝 Summary
+## Summary
 
-🎓 MCA graduate with hands-on experience in MERN stack development, networking, and backend systems.  
-🌟 Passionate about solving real-world problems with scalable and user-friendly tech solutions.
+MCA graduate with hands-on experience in MERN stack development, networking, and backend systems.  
+Passionate about solving real-world problems with scalable and user-friendly tech solutions.
 
 ---
 
-## 🎓 Education
+## Education
 
 - **Amity University Jharkhand, Ranchi**  
   *Master’s in Computer Applications* (2023 – 2025) — CGPA: **8.76**
@@ -27,7 +27,7 @@
 
 ---
 
-## 🛠️ Skills
+## Skills
 
 - **Languages:** C++, JavaScript, HTML, Python  
 - **Databases:** SQL, MongoDB  
@@ -37,7 +37,7 @@
 
 ---
 
-## 💼 Experience
+## Experience
 
 ### 🏢 National Informatics Centre (NIC)  
 **Software Development Trainee** — *June 2024 – Sept 2024*  
@@ -46,7 +46,7 @@
 
 ---
 
-## 📂 Projects
+## Projects
 
 ### 🔹 QTrack – Smart Queue Management System  
 > A digital queueing solution for institutions  
@@ -66,25 +66,25 @@
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - [Goldman Sachs Software Engineering Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_qRmN3sgDNCsqaQRNJ_1673926158841_completion_certificate.pdf)  
 - [Cognizant Agile Methodology Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/ZZswQd6xGydd758vz_Cognizant%20USA_qRmN3sgDNCsqaQRNJ_1683233703680_completion_certificate.pdf)
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
-🏅 Finalist – **Smart India Hackathon 2024**  
+Finalist – **Smart India Hackathon 2024**  
 [View Certificate](https://drive.google.com/file/d/16XKRoxyG-gX5g6LnpG1D38wHi8F1yPha/view?usp=sharing)
 
 ---
 
-## ⚡ Extras
+## Extras
 
-- 💻 Active on LeetCode: [BLITzZzZzZz](https://leetcode.com/u/BLITzZzZzZz/)  
-- 🧩 Love DSA, problem-solving, and building impactful projects  
-- 🎯 Always eager to learn and contribute
+- Active on LeetCode: [BLITzZzZzZz](https://leetcode.com/u/BLITzZzZzZz/)  
+- Love DSA, problem-solving, and building impactful projects  
+- Always eager to learn and contribute
 
 ---
 
