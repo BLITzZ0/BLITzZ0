@@ -55,9 +55,9 @@ Passionate about solving real-world problems with scalable and user-friendly tec
 - **Tech Stack:** React, Tailwind CSS, Node.js, Express, MongoDB
 
 ### 🔹 DDAS – Data Download Duplication Alert System  
-> Detects duplicate file downloads using hashing  
+> Detects duplicate file downloads over browsers, CLI.
 - Used MD5/SHA and TCP/IP protocol monitoring  
-- **Tech Stack:** Python, Hashing, TCP/IP
+- **Tech Stack:** Python, Hashing, Packet Inspection
 
 ### 🔹 AquaMesh – Smart Real-Time Irrigation System  
 > IoT-based soil moisture monitoring and irrigation  
