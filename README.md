@@ -4,7 +4,6 @@ MCA Graduate | MERN Stack Enthusiast | Problem Solver
  India 
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&link=https://linkedin.com/in/abhishek-k-0181b5229/)](https://linkedin.com/in/abhishek-k-0181b5229/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github&link=https://github.com/BLITzZ0)](https://github.com/BLITzZ0)
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat-square&logo=leetcode&link=https://leetcode.com/u/BLITzZzZzZz/)](https://leetcode.com/u/BLITzZzZzZz/)
 [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&link=mailto:ababhishek3005@gmail.com)](mailto:ababhishek3005@gmail.com)
 
