@@ -8,7 +8,8 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&center=true&vCenter=true&color=00FFFF&width=600&lines=%7C+MERN+Stack+Developer;Passionate+about+real-world+projects;Networking+%7C+%7C" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&center=true&vCenter=true&color=00FFFF&width=600&lines=MERN+Stack+Developer+%7C+Passionate+about+real-world+projects+%7C+Networking" />
+
 </p>
 
 ---
