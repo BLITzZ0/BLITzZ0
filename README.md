@@ -1,96 +1,75 @@
-<!-- Cyberpunk Banner -->
+<!-- Haunted Banner -->
 <p align="center">
-  <img src="https://your-cyberpunk-banner.gif" alt="Cyberpunk Banner" width="100%" />
+  <img src="https://i.imgur.com/9JDcZJo.gif" width="100%" alt="Horror Banner" />
 </p>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=30&color=FF00F0&center=true&vCenter=true&width=600&lines=Abhishek+Kumar+Pandey;MCA+Graduate+%7C+MERN+Stack+Enthusiast;Problem+Solver+%7C+Cyberpunk+Coder" />
-</h1>
+<!-- Glitchy Name Typing -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Nosifer&weight=900&size=30&pause=2000&color=FF0000&background=000000&center=true&vCenter=true&width=600&lines=𓆩+Abhishek+Kumar+Pandey+𓆪;MERN+Stack+Mutant+%7C+Haunted+Coder;Blood+in+the+Backtrace...+%F0%9F%8E%83" />
+</p>
 
+<!-- Red Links Only -->
 <p align="center">
   <a href="https://linkedin.com/in/abhishek-k-0181b5229/">
-    <img src="https://img.shields.io/badge/LinkedIn-ABH-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Blood%20Linked-blueviolet?style=for-the-badge&logo=linkedin&logoColor=red" />
   </a>
   <a href="https://leetcode.com/u/BLITzZzZzZz/">
-    <img src="https://img.shields.io/badge/LeetCode-BLITz-orange?style=for-the-badge&logo=leetcode" />
+    <img src="https://img.shields.io/badge/LeetCode-Haunted%20Puzzles-orange?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
   <a href="mailto:ababhishek3005@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Abhishek-red?style=for-the-badge&logo=gmail" />
+    <img src="https://img.shields.io/badge/Email-Send%20the%20Curse-black?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
 </p>
 
 ---
 
-<!-- Summary -->
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/63834733/126856342-401d62c4-9ed6-4d5e-9f95-5049dd650f55.gif" width="200" />
-  <br/>
-  <strong style="color:#0ff">Building scalable, futuristic web solutions for real-world problems.</strong>
-</div>
-
----
-
-## 🧪 Tech Stack & Tools
-
+<!-- Blood Dripping Animation -->
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,cpp,py,html,css,git,vscode" />
+  <img src="https://i.pinimg.com/originals/b9/3b/24/b93b2415e2c0f7e8b3d9538e938b31ae.gif" width="400" />
 </p>
 
 ---
 
-## 🏆 Notable Projects
-
-### 🔹 QTrack – Smart Queue Management  
-🛠️ **Stack:** React, Tailwind, Express, MongoDB  
-🚀 Role-Based Auth, Real-time Updates, Modular REST APIs  
-🧠 Built with JWT, Socket.IO, MongoDB GridFS
-
----
-
-### 🔹 DDAS – Duplication Detection Tool  
-🛠️ **Stack:** Python, TCP/IP Monitoring, Hashing  
-⚙️ Detects duplicate downloads in real-time  
-🔍 Uses MD5/SHA and custom packet sniffing
+<!-- Skills (Flashing Icons) -->
+<p align="center">
+  <img src="https://i.imgur.com/ft6YiUI.gif" width="80" />
+  <img src="https://i.imgur.com/EThlF5g.gif" width="80" />
+  <img src="https://i.imgur.com/lkURytM.gif" width="80" />
+  <img src="https://i.imgur.com/cjUqjcM.gif" width="80" />
+  <img src="https://i.imgur.com/gGrTfUO.gif" width="80" />
+</p>
 
 ---
 
-### 🔹 AquaMesh – Smart IoT Irrigation  
-🛠️ **Stack:** Python, Kafka, Arduino, MongoDB  
-🌱 Real-time soil monitoring + route optimization with Dijkstra  
-📡 IoT + Big Data Pipeline via Kafka
+<!-- Project Section -->
+<p align="center">
+  <img src="https://i.imgur.com/U7qO01K.gif" width="100%" />
+</p>
 
 ---
 
-## 📜 Experience
-
-### 💻 National Informatics Centre – *Software Trainee*  
-📆 June – Sept 2024  
-🧰 Built responsive tenant management system (HTML, PHP, JS, MySQL)
-
----
-
-## 🎓 Education
-
-- 🏫 **Amity University Jharkhand** – MCA (2023–2025) — CGPA: 8.7  
-- 🎓 **NSHM Knowledge Campus** – BCA (2020–2023) — CGPA: 9.01  
+<!-- Haunted Terminal -->
+<p align="center">
+  <img src="https://i.imgur.com/bX6aAYE.gif" width="90%" />
+</p>
 
 ---
 
-## 📜 Certifications & Achievements
-
-- 🏅 [Goldman Sachs Virtual Engineering Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_qRmN3sgDNCsqaQRNJ_1673926158841_completion_certificate.pdf)  
-- 🏅 [Cognizant Agile Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/ZZswQd6xGydd758vz_Cognizant%20USA_qRmN3sgDNCsqaQRNJ_1683233703680_completion_certificate.pdf)  
-- 🧠 **Finalist – Smart India Hackathon 2024** ([View Certificate](https://drive.google.com/file/d/16XKRoxyG-gX5g6LnpG1D38wHi8F1yPha/view?usp=sharing))
+<!-- DSA Glitch Section -->
+<p align="center">
+  <img src="https://i.imgur.com/afcoU4b.gif" width="450" alt="Glitch Text" />
+</p>
 
 ---
 
-## 🔁 Fun Bits
+<!-- Footer -->
+<p align="center">
+  <img src="https://i.imgur.com/ZOb5ZkL.gif" width="60%" />
+</p>
 
-![Matrix Code](https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcjdtcDVwZzU2OXdxZHZob2U4dHpoc2U2N3E2eWRxaTNqYW5rZmV6eCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oEjI6SIIHBdRxXI40/giphy.gif)
-
-```html
-<marquee behavior="alternate" direction="right" scrollamount="10">
-  <span style="color: #00FFFF; font-family: Orbitron, monospace; font-size: 20px;">
-    💥 HACKING THE FUTURE WITH CODE 💥
-  </span>
+<marquee scrollamount="8" direction="left">
+  <img src="https://i.imgur.com/9l0Fi5G.gif" height="80" />
+  <img src="https://i.imgur.com/FTWaUIn.gif" height="80" />
+  <img src="https://i.imgur.com/NGnd2Mj.gif" height="80" />
+  <img src="https://i.imgur.com/srxepVF.gif" height="80" />
 </marquee>
