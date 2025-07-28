@@ -35,7 +35,6 @@
 ![Express.js](https://img.shields.io/badge/-Express.js-black?style=for-the-badge&logo=express)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)
 
 ---
 
