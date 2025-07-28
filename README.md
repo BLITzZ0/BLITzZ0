@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&center=true&vCenter=true&color=00FFFF&width=600&lines=MERN+Stack+Developer;Passionate+about+real-world+projects;Networking" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&center=true&vCenter=true&color=00FFFF&width=600&lines=MERN+Stack+Developer;Python-Developer;Networking" />
 
 
 </p>
