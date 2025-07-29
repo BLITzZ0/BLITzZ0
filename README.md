@@ -48,7 +48,7 @@
 ### 🔹 DDAS: Data Download Duplication Alert System  
 - Detects duplicate downloads using file hashing  
 - Monitors TCP/IP traffic and alerts in real time  
-- **Stack**: Python, MD5/SHA, Socket, TCP/IP
+- **Stack**: Python, Wireshark
 
 ### 🔹 AquaMesh: Smart Irrigation IoT  
 - Real-time soil monitoring & smart watering  
