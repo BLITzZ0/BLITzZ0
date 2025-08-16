@@ -4,7 +4,7 @@
 <!-- GitHub Profile README for Abhishek Kumar Pandey -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=250&section=header&text=Abhishek%20Kr%20Pandey&fontSize=40&fontColor=F8F8F2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=250&section=header&text=Abhishek%20Kr.%20Pandey&fontSize=40&fontColor=F8F8F2" />
 </p>
 
 <p align="center">
