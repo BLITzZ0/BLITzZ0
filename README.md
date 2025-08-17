@@ -19,7 +19,7 @@
 
 🎓 MCA @ Amity University Jharkhand (2023–2025)  
 💡 Finalist - Smart India Hackathon 2024  
-🔧 MERN Stack Developer | Python Developer | Networking  
+🔧 MERN Stack Developer | Python Developer
 💬 Passionate about building real-world solutions  
 🧠 Practicing DSA on [LeetCode](https://leetcode.com/u/BLITzZzZzZz/)  
 
