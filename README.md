@@ -57,8 +57,8 @@
 
 ## 🏅 Certifications
 
-- [Goldman Sachs Software Engineering Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_qRmN3sgDNCsqaQRNJ_1673926158841_completion_certificate.pdf)
-- [Cognizant Agile Methodology](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/ZZswQd6xGydd758vz_Cognizant%20USA_qRmN3sgDNCsqaQRNJ_1683233703680_completion_certificate.pdf)
+- [Software Engineering Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_qRmN3sgDNCsqaQRNJ_1673926158841_completion_certificate.pdf)
+- [Agile Methodology](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/ZZswQd6xGydd758vz_Cognizant%20USA_qRmN3sgDNCsqaQRNJ_1683233703680_completion_certificate.pdf)
 
 ---
 
