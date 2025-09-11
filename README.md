@@ -48,7 +48,7 @@ Practicing DSA on [LeetCode](https://leetcode.com/u/BLITzZzZzZz/)
 - Monitors TCP/IP traffic and alerts in real time  
 - **Stack**: Python, Wireshark
 
-### 🔹 AquaMesh: Smart Irrigation Iot
+### 🔹 AquaMesh: Smart Irrigation IoT
 - Real-time soil monitoring & smart watering  
 - **Stack**: Python, Arduino, Flask, MongoDB, Kafka
 
