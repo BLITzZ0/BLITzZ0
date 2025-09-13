@@ -41,16 +41,16 @@ Practicing DSA on [LeetCode](https://leetcode.com/u/BLITzZzZzZz/)
 ### 🔹 [QTrack: Smart Queue Management System](https://github.com/BLITzZ0)  
 - Role-based access (admin/org/user)
 - Real-time queue automation using Socket.IO  
-- **Stack**: React, Node.js, MongoDB, Express, TailwindCSS, JWT
+- **Tech Stack**: React, Node.js, MongoDB, Express, TailwindCSS, JWT
 
 ### 🔹 DDAS: Data Download Duplication Alert System  
 - Detects duplicate downloads using file hashing  
 - Monitors TCP/IP traffic and alerts in real time  
-- **Stack**: Python, Wireshark
+- **Tech Stack**: Python, Wireshark
 
 ### 🔹 AquaMesh: Smart Irrigation IoT
 - Real-time soil monitoring & smart watering  
-- **Stack**: Python, Arduino, Flask, MongoDB, Kafka
+- **Tech Stack**: Python, Arduino, Flask, MongoDB, Kafka
 
 ---
 
