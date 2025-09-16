@@ -39,7 +39,7 @@ Practicing DSA on [LeetCode](https://leetcode.com/u/BLITzZzZzZz/)
 ## 📂 Projects
 
 ### 🔹 [QTrack: Smart Queue Management System](https://github.com/BLITzZ0)  
-- Role-based access (admin/org/user)
+- Role-based access control (admin/org/user)
 - Real-time queue automation using Socket.IO  
 - **Tech Stack**: React, Node.js, MongoDB, Express, TailwindCSS, JWT
 
