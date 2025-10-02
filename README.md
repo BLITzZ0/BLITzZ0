@@ -15,7 +15,7 @@
 
 ---
 
-## 🧑‍💻 About Myself
+## About Myself
 
 MCA @ Amity University Jharkhand (2023 - 2025)  
 Finalist - Smart India Hackathon 2024  
@@ -24,7 +24,7 @@ Practicing DSA on [LeetCode](https://leetcode.com/u/BLITzZzZzZz/)
 
 ---
 
-## 🚀 Tech Stack
+##  Tech Stack
 
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
