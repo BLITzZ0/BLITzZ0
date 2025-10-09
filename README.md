@@ -17,7 +17,7 @@
 
 ## About Myself
 
-MCA @ Amity University Jharkhad (2023 - 2025)  
+MCA @ Amity University Jharkhand (2023 - 2025)  
 Finalist - Smart India Hackathon 2024  
 MERN Stack Developer | Python Developer  
 Practicing DSA on [LeetCode](https://leetcode.com/u/BLITzZzZzZz/)  
