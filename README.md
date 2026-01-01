@@ -1,76 +1,87 @@
-
-
-
-<!-- GitHub Profile README for Abhishek Kumar Pandey -->
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=250&section=header&text=Abhishek%20Kr.%20Pandey&fontSize=40&fontColor=F8F8F2" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E50914&height=250&section=header&text=Abhishek%20Kr.%20Pandey&fontSize=42&fontColor=000000&fontAlignY=45&fontFamily=ITC%20Benguiat%20Bold%20Condensed" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=4000&pause=1000&center=true&vCenter=true&color=00FFFF&width=600&lines=MERN+Stack+Developer;Python-Developer;Networking" />
-
-
+  <img src="https://readme-typing-svg.herokuapp.com?font=ITC+Benguiat+Bold+Condensed&size=26&duration=4000&pause=1000&center=true&vCenter=true&color=000000&width=720&lines=FULL+STACK+DEVELOPER;BACKEND+SYSTEMS+%7C+REAL-TIME+APPS;NODE.JS+%7C+FASTAPI+%7C+REACT;SYSTEM+DESIGN+%26+CLEAN+CODE" />
 </p>
 
 ---
 
-## About Me
+##  About Me
 
-MCA @ Amity University Jharkhand (2023 - 2025)  
-Finalist - Smart India Hackathon 2024  
-Full Stack Developer  
-Practicing DSA on [LeetCode](https://leetcode.com/u/BLITzZzZzZz/)  
+I’m **Abhishek Kumar Pandey**, a **Full Stack Developer** with strong fundamentals in **DSA, OOP, and system design**.  
+I focus on building scalable backend systems and real-time applications using clean, maintainable code.
 
----
-
-##  Tech Stack
-
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=for-the-badge&logo=javascript)
-![React](https://img.shields.io/badge/-React-blue?style=for-the-badge&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-green?style=for-the-badge&logo=node.js)
-![MongoDB](https://img.shields.io/badge/-MongoDB-white?style=for-the-badge&logo=mongodb)
-![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+**MCA** @ Amity University Jharkhand (CGPA: 8.7)  
+ **BCA** @ NSHM Knowledge Campus (CGPA: 9.0)  
+ **Smart India Hackathon 2024 – Finalist**  
+ **Software Development Trainee** @ National Informatics Centre (NIC)  
+ **LeetCode** – https://leetcode.com/u/BLITzZzZzZz/
 
 ---
 
-## 📂 Projects
+## Tech Stack
 
-### 🔹 [QTrack: Smart Queue Management System](https://github.com/BLITzZ0)  
-- Role-based access control (admin/org/user)
-- Real-time queue automation using Socket.IO  
-- **Tech Stack**: React, Node.js, MongoDB, Express, TailwindCSS, JWT
-
-### 🔹 DDAS: Data Download Duplication Alert System  
-- Detects duplicate downloads using file hashing  
-- Monitors TCP/IP traffic and alerts in real time  
-- **Tech Stack**: Python, Wireshark
-
-### 🔹 AquaMesh: Smart Irrigation IoT
-- Real-time soil monitoring & smart watering  
-- **Tech Stack**: Python, Arduino, Flask, MongoDB, Kafka
+**Languages:** JavaScript, Python, SQL  
+**Frontend:** React, HTML5, CSS3  
+**Backend:** Node.js, Express.js, FastAPI  
+**Databases:** MongoDB, PostgreSQL, MySQL  
+**Tools:** Git, Docker, AWS, Linux  
+**Core:** DSA, OOP, System Design
 
 ---
 
-## 🏅 Certifications
+## Experience
 
-- [Software Engineering Program](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Goldman%20Sachs/NPdeQ43o8P9HJmJzg_Goldman%20Sachs_qRmN3sgDNCsqaQRNJ_1673926158841_completion_certificate.pdf)
-- [Agile Methodology](https://forage-uploads-prod.s3.amazonaws.com/completion-certificates/Cognizant/ZZswQd6xGydd758vz_Cognizant%20USA_qRmN3sgDNCsqaQRNJ_1683233703680_completion_certificate.pdf)
+**Software Development Trainee – National Informatics Centre (NIC)**  
+*Apr 2024 – Sep 2024*
+
+- Developed backend modules for a production Tenant Management System  
+- Designed and consumed REST APIs for service communication  
+- Optimized SQL queries to improve API response times  
+- Focused on data consistency, validation, and error handling  
 
 ---
 
-## 📫 Connect With Me
+## Projects
+
+### **Pay-Money – Transaction Simulation System**
+*Node.js · Express.js · React.js · MongoDB*  
+- Built transactional backend workflows with consistency checks and state validation  
+- Designed layered backend architecture following clean-code principles  
+- Simulated real-world payment flows via REST APIs  
+
+### **QTrack – Real-Time Queue Management System**
+*React.js · Socket.IO · MongoDB*  
+- Implemented WebSocket-based real-time queue synchronization  
+- Added role-based access control for users and admins  
+- Optimized database operations for concurrent user handling  
+
+### **System Health Monitor with Webex Alerts**
+*Python · FastAPI · psutil · Webex API*  
+- Developed a backend service to collect OS-level metrics  
+- Implemented threshold-based alerting logic  
+- Integrated Webex APIs for automated real-time notifications  
+
+---
 
 <p align="center">
-  <a href="mailto:ababhishek3005@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/abhishek-k-0181b5229/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  
+  <a href="mailto:ababhishek3005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-E50914?style=for-the-badge&logo=gmail&logoColor=000000" />
+  </a>
+  <a href="https://linkedin.com/in/abhishek-k-0181b5229/">
+    <img src="https://img.shields.io/badge/LinkedIn-E50914?style=for-the-badge&logo=linkedin&logoColor=000000" />
+  </a>
+  <a href="https://github.com/BLITzZ0">
+    <img src="https://img.shields.io/badge/GitHub-E50914?style=for-the-badge&logo=github&logoColor=000000" />
+  </a>
 </p>
 
----
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=BLITzZ0&color=000000&style=flat-square" />
+</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0A192F&height=120&section=footer" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E50914&height=120&section=footer" />
 </p>
