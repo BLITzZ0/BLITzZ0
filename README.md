@@ -25,7 +25,7 @@ I focus on building scalable backend systems and real-time applications using cl
 
 **Languages:** JavaScript, Python, SQL  
 **Frontend:** React, HTML5, CSS3  
-**Backend:** Node.js, Express.js, FastAPI  
+**Backend:** NodeJs, ExpressJs, FastAPI  
 **Databases:** MongoDB, PostgreSQL, MySQL  
 **Tools:** Git, Docker, AWS, Linux  
 **Core:** DSA, OOP, System Design
