@@ -10,7 +10,7 @@
 
 ##  About Me
 
-I’m **Abhishek Kumar Pandey**, a **Full Stack Developer** with strong fundamentals in **DSA, OOP, and system design**.  
+I’m **Abhishek Kumar Pandey**, a **Backend Developer** with strong fundamentals in **DSA, OOP, and system design**.  
 I focus on building scalable backend systems and real-time applications using clean, maintainable code.
 
 **MCA** @ Amity University Jharkhand (CGPA: 8.7)  
