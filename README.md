@@ -135,12 +135,12 @@ education:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 July 2026 - To: 27 July 2026
+From: 21 July 2026 - To: 28 July 2026
 
 Total Time: 1 hr 55 mins
 
-Other   22 hrs 42 mins        ███████████████████████░░   92.20 %
-C++     1 hr 55 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   07.80 %
+Other   24 hrs 44 mins        ███████████████████████▒░   92.80 %
+C++     1 hr 55 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.20 %
 ```
 
 <!--END_SECTION:waka-->
