@@ -136,13 +136,12 @@ education:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 August 2026 - To: 06 September 2026
+From: 31 August 2026 - To: 07 September 2026
 
-Total Time: 5 hrs 3 mins
+Total Time: 3 hrs 43 mins
 
-Other   30 hrs 48 mins        █████████████████████▒░░░   85.89 %
-C++     5 hrs 3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
-JSON    0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 %
+Other   28 hrs 53 mins        ██████████████████████░░░   88.58 %
+C++     3 hrs 43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.42 %
 ```
 
 <!--END_SECTION:waka-->
