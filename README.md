@@ -136,12 +136,12 @@ education:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 24 September 2026 - To: 01 October 2026
+From: 25 September 2026 - To: 02 October 2026
 
 Total Time: 1 hr 55 mins
 
-Other            14 hrs 47 mins        ██████████████████████░░░   88.53 %
-C++              1 hr 54 mins          ███░░░░░░░░░░░░░░░░░░░░░░   11.46 %
+Other            12 hrs 37 mins        █████████████████████▓░░░   86.81 %
+C++              1 hr 54 mins          ███▒░░░░░░░░░░░░░░░░░░░░░   13.17 %
 RGBDS Assembly   0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
