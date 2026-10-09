@@ -136,12 +136,13 @@ education:
 <!--START_SECTION:waka-->
 
 ```txt
-From: 30 September 2026 - To: 07 October 2026
+From: 01 October 2026 - To: 08 October 2026
 
-Total Time: 49 mins
+Total Time: 2 hrs 3 mins
 
-Other    8 hrs 7 mins          ██████████████████████▓░░   90.70 %
-Python   49 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.30 %
+Other    11 hrs 29 mins        █████████████████████▒░░░   84.75 %
+Python   2 hrs 3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   15.23 %
+TeX      0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
 ```
 
 <!--END_SECTION:waka-->
