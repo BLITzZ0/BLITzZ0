@@ -1,123 +1,150 @@
 <div align="center">
 
-# Abhishek Kumar Pandey
+<img src="https://capsule-render.vercel.app/api?type=soft&color=0:8b5cf6,50:22d3ee,100:34d399&height=230&section=header&text=Abhishek%20Kumar%20Pandey&fontSize=48&fontColor=ffffff&fontAlignY=42&desc=%E2%97%88%20connected%20as%20%40BLITzZ0%20%C2%B7%20open%20to%20backend%20roles&descSize=16&descAlignY=64&animation=fadeIn" width="100%" alt="Abhishek Kumar Pandey" />
 
-### Backend Developer · Real-Time Systems · Distributed Systems
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3200&pause=900&color=A78BFA&center=true&vCenter=true&width=700&height=40&lines=Backend+Engineer+%C2%B7+Node.js+%2B+FastAPI;Real-Time+%26+Distributed+Systems;Smart+India+Hackathon+2024+Finalist;Shipping+secure%2C+scalable+APIs" alt="typing" />
 
-[![Gmail](https://img.shields.io/badge/Gmail-E50914?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ababhishek3005@gmail.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/abhishek-k-0181b5229/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/BLITzZ0)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/BLITzZzZzZz/)
+<br/>
 
-![Profile Views](https://komarev.com/ghpvc/?username=BLITzZ0&color=e50914&style=for-the-badge&label=PROFILE+VIEWS)
-![SIH 2024](https://img.shields.io/badge/SIH%202024-Finalist-1a0000?style=for-the-badge&color=E50914)
-![Open to Backend Roles](https://img.shields.io/badge/Open%20to-Backend%20Roles-1a0000?style=for-the-badge&color=E50914)
+[![Mail](https://img.shields.io/badge/mail-ababhishek3005@gmail.com-8b5cf6?style=flat-square&logo=gmail&logoColor=white&labelColor=0a0818)](mailto:ababhishek3005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/linkedin-abhishek--k-22d3ee?style=flat-square&logo=linkedin&logoColor=white&labelColor=0a0818)](https://linkedin.com/in/abhishek-k-0181b5229/)
+[![LeetCode](https://img.shields.io/badge/leetcode-BLITzZzZzZz-34d399?style=flat-square&logo=leetcode&logoColor=white&labelColor=0a0818)](https://leetcode.com/u/BLITzZzZzZz/)
+![Views](https://komarev.com/ghpvc/?username=BLITzZ0&style=flat-square&color=8b5cf6&labelColor=0a0818&label=views)
+
+[**Genesis**](#-genesis) · [**Assets**](#-assets) · [**Transactions**](#-transaction-log) · [**Contracts**](#-deployed-contracts) · [**Network**](#-network-activity) · [**Connect**](#-connect-wallet)
 
 </div>
 
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:E50914,100:1a0000&height=180&section=header&text=Abhishek%20Kr.%20Pandey&fontSize=42&fontColor=FFFFFF&fontAlignY=38&animation=fadeIn&fontFamily=ITC%20Benguiat%20Bold%20Condensed" />
-</p>
+<br/>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=21&duration=3200&pause=900&color=E50914&center=true&vCenter=true&width=780&lines=Backend+Developer+%7C+Node.js+%2B+FastAPI;Real-Time+%26+Distributed+Systems;Smart+India+Hackathon+2024+Finalist;System+Design+%7C+Clean+Code+%7C+DSA" />
-</p>
+## ◈ Genesis
 
----
+<table>
+<tr>
+<td width="62%" valign="top">
 
-## 🧑‍💻 About Me
-
-> `abhishek@backend-dev:~$ cat about.md`
-
-```yaml
-name:  Abhishek Kumar Pandey
-role:  Entry-Level Software Engineer / Backend Developer
-focus: Scalable backend systems · real-time apps · distributed transaction workflows
-
-education:
-  - MCA @ Amity University Jharkhand   | CGPA: 8.7/10   (2023 – 2025)
-  - BCA @ NSHM Knowledge Campus         | CGPA: 9.0/10   (2020 – 2023)
+```json
+{
+  "name": "Abhishek Kumar Pandey",
+  "handle": "@BLITzZ0",
+  "role": "Backend Developer",
+  "focus": [
+    "scalable backend systems",
+    "real-time applications",
+    "distributed transaction workflows"
+  ],
+  "learning": "system design · distributed systems",
+  "achievement": "Smart India Hackathon 2024 — Finalist",
+  "status": "open to backend roles ✦"
+}
 ```
 
-- 🔭 Currently building backend systems and real-time applications
-- 🌱 Deepening my knowledge of System Design and Distributed Systems
-- 🏆 Smart India Hackathon 2024 — Finalist
-- 📫 Reach me at **ababhishek3005@gmail.com**
+</td>
+<td width="38%" valign="top">
 
----
+**🎓 Education**
 
-## 🛠️ Tech Stack
+**MCA** · Amity University Jharkhand
+`2023–2025` · **8.7** / 10
 
-> `abhishek@backend-dev:~$ ls tech-stack/ --tree`
+**BCA** · NSHM Knowledge Campus
+`2020–2023` · **9.0** / 10
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ◈ Assets
 
 <div align="center">
 
-### Languages
-
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-### Backend
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![REST APIs](https://img.shields.io/badge/REST%20APIs-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-### Databases
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-
-### Tools & Platforms
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### Core Concepts
-
-![DSA](https://img.shields.io/badge/DSA-4B0082?style=flat-square)
-![System Design](https://img.shields.io/badge/System%20Design-2E8B57?style=flat-square)
-![OOP](https://img.shields.io/badge/OOP-8B0000?style=flat-square)
+| Layer | Holdings |
+|:--|:--|
+| **Languages** | ![C++](https://img.shields.io/badge/C++-8b5cf6?style=flat-square&logo=cplusplus&logoColor=white&labelColor=0a0818) ![Python](https://img.shields.io/badge/Python-8b5cf6?style=flat-square&logo=python&logoColor=white&labelColor=0a0818) ![JavaScript](https://img.shields.io/badge/JavaScript-8b5cf6?style=flat-square&logo=javascript&logoColor=white&labelColor=0a0818) |
+| **Backend** | ![Node.js](https://img.shields.io/badge/Node.js-22d3ee?style=flat-square&logo=node.js&logoColor=white&labelColor=0a0818) ![Express](https://img.shields.io/badge/Express-22d3ee?style=flat-square&logo=express&logoColor=white&labelColor=0a0818) ![FastAPI](https://img.shields.io/badge/FastAPI-22d3ee?style=flat-square&logo=fastapi&logoColor=white&labelColor=0a0818) ![REST](https://img.shields.io/badge/REST_APIs-22d3ee?style=flat-square&logo=postman&logoColor=white&labelColor=0a0818) |
+| **Data** | ![MongoDB](https://img.shields.io/badge/MongoDB-34d399?style=flat-square&logo=mongodb&logoColor=white&labelColor=0a0818) ![MySQL](https://img.shields.io/badge/MySQL-34d399?style=flat-square&logo=mysql&logoColor=white&labelColor=0a0818) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-34d399?style=flat-square&logo=postgresql&logoColor=white&labelColor=0a0818) |
+| **Infra** | ![Git](https://img.shields.io/badge/Git-f472b6?style=flat-square&logo=git&logoColor=white&labelColor=0a0818) ![Docker](https://img.shields.io/badge/Docker-f472b6?style=flat-square&logo=docker&logoColor=white&labelColor=0a0818) ![AWS](https://img.shields.io/badge/AWS-f472b6?style=flat-square&logo=amazonaws&logoColor=white&labelColor=0a0818) ![Linux](https://img.shields.io/badge/Linux-f472b6?style=flat-square&logo=linux&logoColor=white&labelColor=0a0818) |
+| **Core** | `DSA` · `System Design` · `OOP` · `ACID` · `RBAC` · `JWT` |
 
 </div>
 
----
+<br/>
 
-## 📊 GitHub Stats & Trophies
+## ◈ Transaction Log
 
-> `abhishek@backend-dev:~$ git log --stats --author=abhishek`
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│  TX  SDE Intern  ·  National Informatics Centre (NIC), Ranchi        │
+│  BLOCK  Apr 2024 → Sep 2024                         STATUS  ✔ final  │
+├──────────────────────────────────────────────────────────────────────┤
+│  ▸ Built backend modules for the Guest Verification System           │
+│    used by Jharkhand Police                                          │
+│  ▸ Designed secure REST APIs: auth, validation, role-based access   │
+│  ▸ Tuned SQL queries + indexing            →  +25% performance       │
+│  ▸ Shipped services to Linux production systems                      │
+│  ▸ Worked cross-functionally on scalable, maintainable systems       │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
+<br/>
+
+## ◈ Deployed Contracts
+
+<table>
+<tr>
+<td width="33%" valign="top">
+
+### 💳 Pay-Money
+*Transaction simulation*
+
+Backend-driven payment flow replicating real-world transactions. JWT auth, Bcrypt hashing, REST APIs for accounts and transfers, and **ACID** guarantees under concurrent load.
+
+`Node.js` `Express` `React` `MongoDB`
+
+</td>
+<td width="33%" valign="top">
+
+### 📡 QTrack
+*Real-time queue management*
+
+WebSocket-based live queue sync with role-based access for users and admins, and database operations tuned for many concurrent users.
+
+`React` `Socket.IO` `MongoDB`
+
+</td>
+<td width="33%" valign="top">
+
+### 🩺 Health Monitor
+*Alerts via Webex*
+
+Tracks CPU, memory, disk and network in real time. Threshold alerts through the **Webex API**, with scheduled checks and logging.
+
+`Python` `FastAPI` `psutil` `Webex`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## ◈ Network Activity
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=BLITzZ0&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=E50914&icon_color=E50914&text_color=C9D1D9" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLITzZ0&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=E50914&text_color=C9D1D9" />
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BLITzZ0&show_icons=true&theme=transparent&hide_border=true&title_color=a78bfa&icon_color=22d3ee&text_color=c9d1d9&bg_color=0a0818&border_radius=24" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BLITzZ0&layout=compact&theme=transparent&hide_border=true&title_color=a78bfa&text_color=c9d1d9&bg_color=0a0818&border_radius=24" />
 
 <br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=BLITzZ0&theme=dark&hide_border=true&background=0D1117&ring=E50914&fire=E50914&currStreakLabel=E50914" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=BLITzZ0&theme=dark&hide_border=true&background=0a0818&ring=8b5cf6&fire=22d3ee&currStreakLabel=a78bfa&border=ffffff10&stroke=ffffff20" />
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=BLITzZ0&theme=react-dark&hide_border=true&bg_color=0D1117&color=E50914&line=E50914&point=FFFFFF" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=BLITzZ0&theme=react-dark&hide_border=true&bg_color=0a0818&color=a78bfa&line=8b5cf6&point=22d3ee" />
 
 <br/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=BLITzZ0&theme=radical&no-frame=true&column=4&margin-w=10&margin-h=10" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-> `abhishek@backend-dev:~$ ./contribution-snake --watch`
-
-<div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/BLITzZ0/BLITzZ0/output/github-contribution-grid-snake-dark.svg" />
@@ -127,11 +154,9 @@ education:
 
 </div>
 
----
+<br/>
 
-## 📈 Weekly Coding Activity
-
-> `abhishek@backend-dev:~$ waka --range=last_7_days`
+### ◇ Weekly Coding Activity
 
 <!--START_SECTION:waka-->
 
@@ -147,85 +172,22 @@ Text     33 mins               ▓░░░░░░░░░░░░░░░�
 
 <!--END_SECTION:waka-->
 
----
+<br/>
 
-## 💼 Experience
-
-> `abhishek@backend-dev:~$ cat experience.log`
-
-### SDE Intern · National Informatics Centre (NIC), Ranchi
-
-**Apr 2024 – Sep 2024**
-
-- Developed backend modules for a **Guest Verification System** used by **Jharkhand Police**
-- Designed and implemented secure REST APIs for authentication, validation & role-based access control
-- Optimized SQL queries and indexing strategies — **improved performance by 25%**
-- Deployed backend services on Linux-based production systems
-- Collaborated cross-functionally to build scalable, maintainable backend systems
-
----
-
-## 🧩 Projects
-
-> `abhishek@backend-dev:~$ ls -la projects/`
-
-### 💳 Pay-Money
-**Payment / Transaction Simulation System**
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-- Backend-driven simulation replicating real-world transaction workflows
-- Secure auth using **JWT** + password encryption with **Bcrypt**
-- RESTful APIs for transactions, user management & account ops
-- Handled concurrent transactions using **ACID** principles for consistency
-
-### 📡 QTrack
-**Real-Time Queue Management System**
-
-![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
-![Socket.IO](https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-- WebSocket-based real-time queue synchronization
-- Role-based access control for users and admins
-- Optimized database operations for concurrent user handling
-
-### 📈 System Health Monitor with Webex Alerts
-**Real-Time Monitoring Tool**
-
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![psutil](https://img.shields.io/badge/psutil-2E8B57?style=flat-square)
-![Webex](https://img.shields.io/badge/Webex%20API-000000?style=flat-square&logo=webex&logoColor=white)
-
-- Tracks CPU, memory, disk & network usage in real time
-- Threshold-based alerting integrated with the **Webex API**
-- Automated scheduling for periodic health checks & logging
-- Optimized scripts for efficient resource utilization
-
----
-
-## 🎓 Education
-
-### MCA — Amity University Jharkhand
-`2023 – 2025` · CGPA: **8.7/10**
-
-### BCA — NSHM Knowledge Campus
-`2020 – 2023` · CGPA: **9.0/10**
-
----
+## ◈ Connect Wallet
 
 <div align="center">
 
-> `abhishek@backend-dev:~$ ./connect.sh --with=abhishek`
+```text
+ ╭──────────────────────────────────────────────╮
+ │   ● Open to backend roles                    │
+ │   ▸ ababhishek3005@gmail.com                 │
+ │                                              │
+ │   [ Connect ]   say hi · build something     │
+ ╰──────────────────────────────────────────────╯
+```
 
-### Thanks for reading — let's build something 🚀
+[![Mail](https://img.shields.io/badge/Send_a_message-8b5cf6?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0a0818)](mailto:ababhishek3005@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/Connect-22d3ee?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0a0818)](https://linkedin.com/in/abhishek-k-0181b5229/)
 
 </div>
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0000,50:E50914,100:1a0000&height=140&section=footer&animation=fadeIn" />
-</p>
