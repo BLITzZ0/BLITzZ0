@@ -97,7 +97,7 @@ Text     33 mins               ▓░░░░░░░░░░░░░░░�
 ## Contact
 
 Open to backend engineering roles. If you are hiring for backend, API or<br/>
-distributed systems work, I would be glad to hear from you.
+distributed systems work, I will be glad to hear from you.
 
 <br/>
 
